@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\asplab7.props" />
+</Project>
