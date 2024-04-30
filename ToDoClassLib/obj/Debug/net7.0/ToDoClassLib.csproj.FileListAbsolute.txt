@@ -1,0 +1,14 @@
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\bin\Debug\net7.0\ToDoClassLib.deps.json
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\bin\Debug\net7.0\ToDoClassLib.runtimeconfig.json
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\bin\Debug\net7.0\ToDoClassLib.dll
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\bin\Debug\net7.0\ToDoClassLib.pdb
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.csproj.AssemblyReference.cache
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.AssemblyInfoInputs.cache
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.AssemblyInfo.cs
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.csproj.CoreCompileInputs.cache
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.dll
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\refint\ToDoClassLib.dll
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.pdb
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ToDoClassLib.genruntimeconfig.cache
+D:\College\3k\pract1\настя\asplab7\ToDoClassLib\obj\Debug\net7.0\ref\ToDoClassLib.dll
