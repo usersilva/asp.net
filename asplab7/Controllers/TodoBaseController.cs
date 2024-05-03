@@ -1,6 +1,9 @@
-﻿namespace asplab7.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace asplab7.Controllers
 {
-  public class TodoBaseController
+  public abstract class TodoBaseController : Controller
   {
+
   }
 }
